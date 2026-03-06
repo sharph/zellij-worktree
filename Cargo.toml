@@ -1,0 +1,9 @@
+[package]
+name = "zellij-worktree"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+zellij-tile = "0.43.1"
+yansi = "1.0"
+
